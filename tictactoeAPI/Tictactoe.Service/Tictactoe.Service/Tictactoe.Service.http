@@ -1,0 +1,6 @@
+@Tictactoe.Service_HostAddress = http://localhost:5285
+
+GET {{Tictactoe.Service_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

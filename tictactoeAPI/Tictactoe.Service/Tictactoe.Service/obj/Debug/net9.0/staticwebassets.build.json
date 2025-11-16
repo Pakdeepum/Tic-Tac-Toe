@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "JcX6Wl0YKGo3Neu+pxd3XdFDTdDxSzzw+HWR1UfLsnM=",
+  "Source": "Tictactoe.Service",
+  "BasePath": "_content/Tictactoe.Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
