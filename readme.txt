@@ -16,3 +16,13 @@ Appsetting.json and .Env Will Send via Email
 **Need change config value to match your computer setting.
 
 Any Question contact pakdeepum.pi@gmail.com
+
+--------Client run with Visual Studio Code-------
+terminal Command
+1. npm install
+2. npm run dev
+
+--------Server run with Visual Studio 2022-------
+1. Debug and run with IIS
+*Project build support Swagger UI
+** Don't forget to install .Net9.0 Runtime
