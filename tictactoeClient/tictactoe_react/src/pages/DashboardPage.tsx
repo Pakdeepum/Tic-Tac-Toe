@@ -22,6 +22,7 @@ const DashboardPage = () => {
       if (_user) {
         if (_user.length === 0) {
           await Service.CreateUser(email);
+          window.location.reload();
         }
       }
     };

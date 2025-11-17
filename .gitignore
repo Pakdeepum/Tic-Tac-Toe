@@ -1,3 +1,6 @@
 
 tictactoeAPI/Tictactoe.Service/Tictactoe.Service/appsettings.json
 tictactoeClient/tictactoe_react/.env
+/tictactoeAPI/Tictactoe.Service/Tictactoe.Service/bin
+/tictactoeAPI/Tictactoe.Service/Tictactoe.Service/obj
+/tictactoeAPI/Tictactoe.Service/.vs

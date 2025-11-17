@@ -182,7 +182,6 @@ body {
 
 .profile-card {
   padding: 2.2rem;
-  animation: scaleIn 0.8s ease-out forwards 1.2s;
 }
 
 .profile-picture {
@@ -266,7 +265,6 @@ body {
     padding: 3rem 3vw;
     max-width: 1700px;
     width: 95vw;
-    animation: fadeInScale 0.8s ease-out forwards;
 }
 
 .game{
